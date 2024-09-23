@@ -1,0 +1,9 @@
+streamlit
+s3fs==2023.3.0
+xlsxwriter
+plotly.express
+streamlit-aggrid
+pyxlsb
+streamlit-extras
+python-docx
+docx
